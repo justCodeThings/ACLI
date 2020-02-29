@@ -5,7 +5,5 @@ rem Push and branch choice is done seperately.
 robocopy C:\Users\ckels\OneDrive\OneDrive\Documents\Arduino\ACLI_OS C:\Users\ckels\Projects\ACLI *.ino 
 robocopy C:\Users\ckels\OneDrive\OneDrive\Documents\Arduino\VideoCard C:\Users\ckels\Projects\ACLI *.ino
 git add .
-@echo off
 set /p m="Commit  message="
-@echo
 git commit -m "%m%"
