@@ -1,3 +1,4 @@
+//Hello from git repo
 /*this is the start of a magic freeMemory() funciton 
  * which returns free SRAM.  I found it on Adafruit.com,
  * Memories of an Arduino.  Idk how it works rn, it just
